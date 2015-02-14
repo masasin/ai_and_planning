@@ -2,6 +2,9 @@ import itertools
 import numpy as np
 
 
+# Assignment details: http://goo.gl/aEMOE8
+# Report: http://goo.gl/TW48Zm
+
 def valid_combos(masses, mass_init, months_max):
     """Return and iterator for all legal combinations of removals
 
